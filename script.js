@@ -1,0 +1,1 @@
+// JS incluido directamente en index.html
